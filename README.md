@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm GKraz</h1>
+<h1 align="center">GKraz</h1>
 <h3 align="center">I make things sometimes</h3>
 
 <h3 align="left">Socials:</h3>
