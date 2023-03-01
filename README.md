@@ -1,3 +1,5 @@
+<h1 align="center">Hello, I'm GKraz</h1>
+<h3 align="center">I make things sometimes when I feel like it. High School IB Senior</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
